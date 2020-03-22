@@ -420,7 +420,7 @@ function calcolaClassifica()
     stRiga = '<tr class="classifica-icon">' +
             '<td class="classifica-icon" style="background-color:#E2E2FF;">Pos.</td> <td style="background-color:#E2E2FF;">Team</td><td style="background-color:#E2E2FF;"></td>'+
             '<td class="classifica-icon">Punti</td>' +
-            '<td class="classifica-icon">Tie Break</td>'+
+            '<td class="classifica-icon">Tie Break <BR> <spam style="font-weight: bold !important;"> NON valido per classifica ufficiale</spam> </td>'+
             '<td class="classifica-icon">Punti dai match conclusi</td>' +
             '<td class="classifica-col1SEP"></td>'; 
     for (var i in classificaTeams)         
