@@ -20,6 +20,8 @@ https://api.chess.com/pub/club/team-calabria
 var calcolaClassificaRun = false;
 var classificaTeams = [];
 
+var bannati = [];
+
 var albo = [];
 albo[8]={"stagione":"2019-2020","primo":"udine-e-fvg", "secondo":"team-emilia-romagna", "terzo": "team-toscana"};
 albo[9]={"stagione":"2017-2018","primo":"team-emilia-romagna", "secondo":"udine-e-fvg", "terzo": "i-lumbard"};
